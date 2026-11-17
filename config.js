@@ -15,7 +15,7 @@ window.PORTAL_CONFIG = {
   "heroImage1": "assets/hero1.webp",
   "heroImage2": "assets/hero2.webp",
   "heroCaption": "Made for your trade customers",
-  "buyer": "The Harbour Café",
+  "buyer": "Seaview Scoops",
   "accountType": "Hospitality partner",
   "categories": [
     "All products",
